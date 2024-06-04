@@ -225,8 +225,6 @@ def tombol_click():
 
             if group1 == user_group + '0':
                 count_group0 += 1
-
-    # Calculate the ratio of rows where group is 111 to total rows
     
     pengali1 = count_group / row_count
     pengali2 = count_group2 / count1   
